@@ -1,1 +1,1 @@
-print('Initial Git file')
+print('Initial file')
